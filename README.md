@@ -26,7 +26,7 @@ https://youtu.be/OQHVNxoFPvY
 - LED Vermelho
 - 3 Resistores (220 Ω)
 - Buzzer
-<br>
+
 
 # Como funciona:
 Utilizamos o DHT22 para medir a temperatura e umidade do estoque, e quando estão em níveis fora do ideal, o buzzer fica ligado.
